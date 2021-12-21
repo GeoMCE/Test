@@ -237,11 +237,11 @@
 				<Title>concentration_des_constats</Title>
 				<Abstract>GH:concentration_des_constats ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸tif˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
+					<Keyword>group˸tif˸˸˸//github.com/GeoMCE/Test/releases/download/Map_Download/concentration_des_constats.zip˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
-				<LatLonBoundingBox minx="-6.798550447489103" miny="-6.033720730560913" maxx="8.351403874357967" maxy="49.94873568310831"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-7500.0" miny="-7593.03892320022" maxx="1085000.0" maxy="6983456.9610768"></BoundingBox>
+				<LatLonBoundingBox minx="-6.798550447489103" miny="-6.03652099873549" maxx="8.35833244737651" maxy="49.9487527561117"></LatLonBoundingBox>
+				<BoundingBox SRS="EPSG:4326" minx="-7500.0" miny="-8043.03892320022" maxx="1085500.0" maxy="6983456.9610768"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
