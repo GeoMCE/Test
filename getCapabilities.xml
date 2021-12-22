@@ -342,7 +342,7 @@
 				<Title>donnees</Title>
 				<Abstract>GH:donnees ABSTRACT</Abstract>
 				<KeywordList>
-					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸10</Keyword>
+					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-2.6127570427848696" miny="42.222199258040376" maxx="8.264156238122744" maxy="50.08210063190258"></LatLonBoundingBox>
