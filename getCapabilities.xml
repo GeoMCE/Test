@@ -196,7 +196,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>Concentration des attaques</Layers>
+				<Layers>GH:test_cc</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -206,7 +206,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>Concentration des attaques</Layers>
+				<Layers>GH:test_cc</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -252,11 +252,6 @@
 			<CustomLayer>
 				<Name>GH:test_geoloc</Name>
 				<Title>test_geoloc</Title>
-				<Operation type="csv">1</Operation>
-			</CustomLayer>
-			<CustomLayer>
-				<Name>GH:localisation_constats</Name>
-				<Title>localisation_constats</Title>
 				<Operation type="csv">1</Operation>
 			</CustomLayer>
 		</VendorSpecificCapabilities>
@@ -342,10 +337,10 @@
 					</LegendURL>
 				</Style>
 			</Layer>
-			<Layer queryable="1" opaque="30">
-				<Name>Concentration des attaques</Name>
-				<Title>Concentration des attaques</Title>
-				<Abstract>Concentration des attaques dans un rayon de 7,5km</Abstract>
+			<Layer queryable="1" opaque="0">
+				<Name>GH:test_cc</Name>
+				<Title>test_cc</Title>
+				<Abstract>GH:test_cc ABSTRACT</Abstract>
 				<KeywordList>
 					<Keyword>group˸tif˸˸˸//github.com/GeoMCE/Test/releases/download/Map_Download/test_cc.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
