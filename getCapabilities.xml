@@ -264,9 +264,9 @@
 				<KeywordList>
 					<Keyword>group˸shp˸˸˸disabledownload˸notListing˸˸maxZoom˸5</Keyword>
 				</KeywordList>
-				<SRS>EPSG:4326</SRS>
+				<SRS>EPSG:2154</SRS>
 				<LatLonBoundingBox minx="-2.6127570427848696" miny="42.222199258040376" maxx="8.264156238122744" maxy="50.08210063190258"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="297185.7" miny="6137101.2" maxx="1077719.3" maxy="6998209.9"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -284,9 +284,9 @@
 				<KeywordList>
 					<Keyword>group˸tif˸˸˸//github.com/GeoMCE/Test/releases/download/Map_Download/concentration_des_constats.zip˸notListing˸˸maxZoom˸1</Keyword>
 				</KeywordList>
-				<SRS>EPSG:4326</SRS>
+				<SRS>EPSG:2154</SRS>
 				<LatLonBoundingBox minx="-6.798550447489103" miny="-6.03652099873549" maxx="8.35833244737651" maxy="49.9487527561117"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-7500.0" miny="-8043.03892320022" maxx="1085500.0" maxy="6983456.9610768"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -306,7 +306,7 @@
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-6.798550447489103" miny="-6.033720730560913" maxx="8.351403874357967" maxy="49.94873568310831"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="-7500.0" miny="-7593.03892320022" maxx="1085000.0" maxy="6983456.9610768"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -326,7 +326,7 @@
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-2.1443748269624" miny="42.27677070226752" maxx="8.351230991933049" maxy="49.94967224535269"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="329937.52402777" miny="6142106.9610768" maxx="1084987.52402777" maxy="6983456.9610768"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -346,7 +346,7 @@
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-2.1443748273683307" miny="42.27677070249039" maxx="8.351230991570052" maxy="49.949672245561416"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="329937.524" miny="6142106.9611" maxx="1084987.524" maxy="6983456.9611"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -366,7 +366,7 @@
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-2.6127570427848696" miny="42.222199258040376" maxx="8.264156238122744" maxy="50.08210063190258"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="297185.7" miny="6137101.2" maxx="1077719.3" maxy="6998209.9"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
@@ -386,7 +386,7 @@
 				</KeywordList>
 				<SRS>EPSG:4326</SRS>
 				<LatLonBoundingBox minx="-5.524375344645383" miny="41.27564861182988" maxx="10.69988691604364" maxy="51.08977929909921"></LatLonBoundingBox>
-				<BoundingBox SRS="EPSG:4326" minx="99040.0" miny="6046546.3" maxx="1242444.4" maxy="7110478.8"></BoundingBox>
+				<BoundingBox SRS="EPSG:2154" minx="99040.0" miny="6046546.29999999981373549" maxx="1242444.39999999990686774" maxy="7110478.79999999981373549"></BoundingBox>
 				<Style>
 					<Name>1</Name>
 					<Title>1</Title>
