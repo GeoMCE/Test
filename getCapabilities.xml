@@ -236,7 +236,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:departement</Layers>
+				<Layers>Départelments</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<TileSet>
@@ -246,7 +246,7 @@
 				<Width>256</Width>
 				<Height>256</Height>
 				<Format>image/png</Format>
-				<Layers>GH:departement</Layers>
+				<Layers>Départements</Layers>
 				<Styles></Styles>
 			</TileSet>
 			<CustomLayer>
@@ -337,7 +337,7 @@
 					</LegendURL>
 				</Style>
 			</Layer>
-			<Layer queryable="1" opaque="0.8">
+			<Layer queryable="1" opaque="0.5">
 				<Name>GH:test_cc</Name>
 				<Title>test_cc</Title>
 				<Abstract>GH:test_cc ABSTRACT</Abstract>
@@ -378,9 +378,9 @@
 				</Style>
 			</Layer>
 			<Layer queryable="1" opaque="0">
-				<Name>Departement</Name>
-				<Title>Departement</Title>
-				<Abstract>Departement ABSTRACT</Abstract>
+				<Name>Départements</Name>
+				<Title>Départements</Title>
+				<Abstract>Départements ABSTRACT</Abstract>
 				<KeywordList>
 					<Keyword>group˸shp˸˸˸//github.com/GeoMCE/Test/releases/download/Map_Download/departement.zip˸notListing˸˸maxZoom˸13</Keyword>
 				</KeywordList>
